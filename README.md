@@ -1,5 +1,7 @@
 # MAL Webscraping
 ## Overview:
+https://kxmii.github.io/MAL-Webscraping/
+
 Webscrapes the top x shows from MAL and generates an index.html where they can be displayed.
 
 ## Files:
