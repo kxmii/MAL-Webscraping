@@ -1,8 +1,8 @@
 # MAL Webscraping
 ## Overview:
-https://kxmii.github.io/MAL-Webscraping/
+Webscrapes the top x shows from MAL and generates an index.html where they can be displayed. Hosted at -
 
-Webscrapes the top x shows from MAL and generates an index.html where they can be displayed.
+https://kxmii.github.io/MAL-Webscraping/
 
 ## Files:
 mal.py: webscrapes top x shows and generates html
