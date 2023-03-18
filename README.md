@@ -1,6 +1,6 @@
 # MAL Webscraping
 ## Overview:
-Webscrapes the top x shows from MAL and generates an index.html where they can be displayed. Hosted at -
+Webscrapes the top 10 shows from MAL and generates an index.html where they can be displayed. Hosted at -
 
 https://kxmii.github.io/MAL-Webscraping/
 
